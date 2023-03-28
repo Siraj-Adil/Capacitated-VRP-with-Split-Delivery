@@ -29,4 +29,4 @@ To use the CSDVRP Solver, follow these steps:
 4. Run Jupyter Notebook and import your csv file
 
 ## Contributors
-This project was developed by Siraj Adil as a Class Assignment for the Network Flows and Graphs course at Indian Institute Of Technology (BHU), Varanasi for Masters Degree in Engineering in Decision Sciences and Engineering. Contributions, feedback, and suggestions are welcome through GitHub Issues and Pull Requests.
+This project was developed by Siraj Adil as a Class Assignment for the Network Flows and Graphs course at Indian Institute Of Technology (BHU), Varanasi for M.Tech Degree in subject Decision Sciences and Engineering. Contributions, feedback, and suggestions are welcome through GitHub Issues and Pull Requests.
