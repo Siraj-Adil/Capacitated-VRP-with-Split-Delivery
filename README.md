@@ -5,8 +5,8 @@ This software project provides a solution to the Split Delivery Vehicle Routing 
 The CSDVRP Solver includes the following features:
 
 1. Input data parsing from two CSV files :
- a) Time Matrix & Customers' demand
- b)location coordinates.
+ a) Time Matrix
+ b) Location coordinates and its Demand.
 
 2. A User input Cell allowing user to change :
  a) Starting depot
