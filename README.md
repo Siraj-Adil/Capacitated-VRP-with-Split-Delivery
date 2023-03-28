@@ -16,7 +16,7 @@ The CSDVRP Solver includes the following features:
 3. Output contains the information:
  a) The optimal vehicle routes
  b) Total travel time
- c) Demand catered of location by particular vehicle
+ c) Demand catered of location by particular vehicle (This has been saved in a csv file)
 
 ## Usage
 To use the CSDVRP Solver, follow these steps:
@@ -27,6 +27,7 @@ To use the CSDVRP Solver, follow these steps:
  a) With the following columns: Location Name, x_coordinate, y_coordinate, Demand
  b) Time matrix or Distance matrix
 4. Run Jupyter Notebook and import your csv file
+5. Check the output data file generated in the same folder as the input file, named Output_data_timestamp.csv
 
 ## Contributors
 This project was developed by Siraj Adil as a Class Assignment for the Network Flows and Graphs course at Indian Institute Of Technology (BHU), Varanasi for M.Tech Degree in subject Decision Sciences and Engineering. Contributions, feedback, and suggestions are welcome through GitHub Issues and Pull Requests.
