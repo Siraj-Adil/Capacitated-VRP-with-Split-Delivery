@@ -20,16 +20,33 @@ The CSDVRP Solver includes the following features:
    b) Total travel time
    c) Demand catered of location by particular vehicle (This has been saved in a csv file)
 
-## Usage
+## Setup Instructions
 
 To use the CSDVRP Solver, follow these steps:
 
-1. Clone the repository to your local machine
-2. Install the necessary dependencies (Python 3.6+ and the Pandas library)
-3. Prepare your input data in two CSV file(s)
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Siraj-Adil/Capacitated-VRP-with-Split-Delivery.git
+cd Capacitated-VRP-with-Split-Delivery
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Prepare your input data in two CSV file(s) (
    a) With the following columns: Location Name, x_coordinate, y_coordinate, Demand
    b) Time matrix or Distance matrix
+
 4. Run Jupyter Notebook and import your csv file
+
+```bash
+jupyter notebook CFLP_India.ipynb
+```
+
 5. Check the output data file generated in the same folder as the input file, named Output_data_timestamp.csv
 
 ## Results
